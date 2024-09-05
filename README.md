@@ -1,4 +1,4 @@
-                                         # Build_a_Secure_Resume_Site_Using_AWS
+                                     # Build_a_Secure_Resume_Site_Using_AWS
 
 Project Overview
 ____________________________________________________________________________________________________________________________
